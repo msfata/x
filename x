@@ -21,8 +21,6 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
 #EXTINF:-1 ,ABZY
 https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
-#EXTINF: 1 ,B4U KADAK
-https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF:-1 ,B4U movies
 http://14.199.164.20:4001/play/a0wj/index.m3u8
 #EXTINF:-1 ,BOLLYWOOD HD
