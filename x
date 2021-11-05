@@ -19,6 +19,20 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE CINEMA
 https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
+#EXTINF:-1,ZEE CINEMA
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZEE ACTION
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZEE CLASSIC
+http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZEE ANMOL
+http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV ASIA
+https://streaming37.worldbbtv.com/hls/tvasiahindi.m3u8
+#EXTINF:-1,FILMY
+http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
+#EXTINF:-1,DUNYAI NOW
+http://51.210.199.45/hls/stream.m3u8
 #EXTINF:-1 ,ABZY
 https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
 #EXTINF:-1 ,B4U movies
