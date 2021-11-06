@@ -53,6 +53,8 @@ http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 https://streaming37.worldbbtv.com/hls/tvacomedy.m3u8
 #EXTINF:-1 ,B4U-PLUS
 http://pyramidsiptv.com:8080/mohamed/mohamed123/855?checkedby:iptvcat.com
+#EXTINF:-1 ,UTV
+https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 #EXTINF:-1 ,IRAN MOVIES
 http://51.210.199.57/hls/stream.m3u8
 #EXTINF:-1 ,MANOTO
