@@ -73,6 +73,30 @@ http://51.210.199.5/hls/stream.m3u8
 https://38q.gcdn.co/PM29/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,FXM
 https://ent.gcdn.co/E72/index.m3u8
+#EXTINF:-1 ,LIFETIME MOVIES
+https://38q.gcdn.co/PM50/index.m3u8
+#EXTINF:-1 ,SHOWTIME
+https://38q.gcdn.co/PM48/index.m3u8
+#EXTINF:-1 ,SHOWTIME EXTREME 
+https://38q.gcdn.co/PM47/index.m3u8
+#EXTINF:-1 ,MOVIE FIRST
+https://last.gcdn.co/AR43/index.m3u8
+#EXTINF:-1 ,OSN PREMIER 
+https://last.gcdn.co/AR42/index.m3u8
+#EXTINF:-1 ,OSN MOVIES
+https://last.gcdn.co/AR41/index.m3u8
+#EXTINF:-1 ,OSN ACTION
+https://last.gcdn.co/AR40/index.m3u8
+#EXTINF:-1 ,HBO CANADA
+https://38q.gcdn.co/PM1/index.m3u8
+#EXTINF:-1 ,HBO ZONE
+https://38q.gcdn.co/PM9/index.m3u8
+#EXTINF:-1 ,HBO COMEDY
+https://38q.gcdn.co/PM7/index.m3u8
+#EXTINF:-1 ,HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
+#EXTINF:-1 ,HBO2
+https://38q.gcdn.co/PM3/index.m3u8
 #EXTINF:-1 ,EPEX
 https://ent.gcdn.co/E59/index.m3u8
 #EXTINF:-1 ,EPEX 2
@@ -113,3 +137,9 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 ,Star World
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,MOVIE
+https://llvod.mxplay.com/video/3929fe6ef3d486f39e3e6bb2f4af85c5/6/hls/h264_high.m3u8
+#EXTINF:-1 ,EURO SPORT
+https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
+#EXTINF:-1 ,FREE SPORT
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
