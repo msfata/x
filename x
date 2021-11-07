@@ -93,6 +93,8 @@ https://ent.gcdn.co/E71/index.m3u8
 https://38q.gcdn.co/PM26/index.m3u8
 #EXTINF:-1 ,ACTION MAX
 https://38q.gcdn.co/PM30/index.m3u8
+#EXTINF:1 ,AMC IFC Film Picks (1080p)  (English)
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,MTV
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 ,MOVIE
@@ -101,3 +103,4 @@ https://llvod.mxplay.com/video/3929fe6ef3d486f39e3e6bb2f4af85c5/6/hls/h264_high.
 https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 #EXTINF:-1 ,FREE SPORT
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+
