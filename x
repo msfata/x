@@ -21,11 +21,7 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8?checkedby:ipt
 http://208.93.117.113/live/Stream1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,BOLLYWOOD HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-#EXTINF:-1 ,ZEE BOLLYWOOD
-http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ASIA- Sony Max
-http://dream4k.co:2082/mminass770399/alvrdbib3s/50740?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ASIA- SONY MAX 2
+#EXTINF:0 ,ASIA- SONY MAX 2
 http://dream4k.co:2082/mminass770399/alvrdbib3s/50742?checkedby:iptvcat.com
 #EXTINF:-1 ,ZEE CINEMA
 https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
@@ -55,18 +51,6 @@ https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 http://51.210.199.57/hls/stream.m3u8
 #EXTINF:-1 ,MANOTO
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
-#EXTINF:-1 ,HIGH VISSION
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,PERSIANA PLUS
-http://51.210.199.21/hls/stream.m3u8
-#EXTINF:-1 ,PERSIANA COMEDY
-http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1 ,PERSIANA FAMILY
-http://51.210.199.19/hls/stream.m3u8
-#EXTINF:-1 ,NEGAH
-https://iptv.negahtv.com/negahtv/playlist.m3u8
-#EXTINF:-1 ,AVA FAMILY
-http://51.210.199.5/hls/stream.m3u8
 #EXTINF:-1 ,FIVE STAR MAX
 https://38q.gcdn.co/PM29/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,FXM
@@ -85,16 +69,6 @@ https://last.gcdn.co/AR42/index.m3u8
 https://last.gcdn.co/AR41/index.m3u8
 #EXTINF:-1 ,OSN ACTION
 https://last.gcdn.co/AR40/index.m3u8
-#EXTINF:-1 ,HBO CANADA
-https://38q.gcdn.co/PM1/index.m3u8
-#EXTINF:-1 ,HBO ZONE
-https://38q.gcdn.co/PM9/index.m3u8
-#EXTINF:-1 ,HBO COMEDY
-https://38q.gcdn.co/PM7/index.m3u8
-#EXTINF:-1 ,HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
-#EXTINF:-1 ,HBO2
-https://38q.gcdn.co/PM3/index.m3u8
 #EXTINF:-1 ,EPEX
 https://ent.gcdn.co/E59/index.m3u8
 #EXTINF:-1 ,EPEX 2
