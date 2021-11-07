@@ -23,8 +23,8 @@ http://208.93.117.113/live/Stream1/playlist.m3u8?checkedby:iptvcat.com
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 #EXTINF:-1 ,ZEE BOLLYWOOD
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Sony Max HD
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ASIA- Sony Max
+http://dream4k.co:2082/mminass770399/alvrdbib3s/50740?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ASIA- SONY MAX 2
 http://dream4k.co:2082/mminass770399/alvrdbib3s/50742?checkedby:iptvcat.com
 #EXTINF:-1 ,ZEE CINEMA
