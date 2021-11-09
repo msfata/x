@@ -21,7 +21,7 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8?checkedby:ipt
 http://208.93.117.113/live/Stream1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,BOLLYWOOD HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-#EXTINF:0 ,ASIA- SONY MAX 2
+#EXTINF:-1 ,ASIA- SONY MAX 2
 http://dream4k.co:2082/mminass770399/alvrdbib3s/50742?checkedby:iptvcat.com
 #EXTINF:-1 ,ZEE CINEMA
 https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
@@ -33,16 +33,12 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE ANMOL
 http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,TV ASIA
-https://streaming37.worldbbtv.com/hls/tvasiahindi.m3u8
 #EXTINF:-1 ,FILMY
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 #EXTINF:-1 ,ABZY
 https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
 #EXTINF:-1 ,B4U movies
 http://14.199.164.20:4001/play/a0wj/index.m3u8
-#EXTINF:-1 ,COMEDY
-https://streaming37.worldbbtv.com/hls/tvacomedy.m3u8
 #EXTINF:-1 ,B4U-PLUS
 http://pyramidsiptv.com:8080/mohamed/mohamed123/855?checkedby:iptvcat.com
 #EXTINF:-1 ,UTV
@@ -59,11 +55,11 @@ https://ent.gcdn.co/E72/index.m3u8
 https://38q.gcdn.co/PM50/index.m3u8
 #EXTINF:-1 ,SHOWTIME
 https://38q.gcdn.co/PM48/index.m3u8
-#EXTINF:-1 ,SHOWTIME EXTREME 
+#EXTINF:-1 ,SHOWTIME EXTREME
 https://38q.gcdn.co/PM47/index.m3u8
 #EXTINF:-1 ,MOVIE FIRST
 https://last.gcdn.co/AR43/index.m3u8
-#EXTINF:-1 ,OSN PREMIER 
+#EXTINF:-1 ,OSN PREMIER
 https://last.gcdn.co/AR42/index.m3u8
 #EXTINF:-1 ,OSN MOVIES
 https://last.gcdn.co/AR41/index.m3u8
@@ -83,8 +79,6 @@ https://38q.gcdn.co/PM15/index.m3u8
 https://38q.gcdn.co/PM22/index.m3u8
 #EXTINF:-1 ,STARZ ENCORE CLASSIC
 https://38q.gcdn.co/PM23/index.m3u8
-#EXTINF:-1 ,STARZ ACTION
-https://38q.gcdn.co/PM20/index.m3u8
 #EXTINF:-1 ,STARZ EDGE
 https://38q.gcdn.co/PM13/index.m3u8
 #EXTINF:-1 ,FX
@@ -93,14 +87,11 @@ https://ent.gcdn.co/E71/index.m3u8
 https://38q.gcdn.co/PM26/index.m3u8
 #EXTINF:-1 ,ACTION MAX
 https://38q.gcdn.co/PM30/index.m3u8
-#EXTINF:1 ,AMC IFC Film Picks (1080p)  (English)
+#EXTINF:-1 ,AMC IFC Film Picks (1080p)  (English)
 https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,MTV
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 ,MOVIE
-https://llvod.mxplay.com/video/3929fe6ef3d486f39e3e6bb2f4af85c5/6/hls/h264_high.m3u8
 #EXTINF:-1 ,EURO SPORT
 https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 #EXTINF:-1 ,FREE SPORT
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
-
