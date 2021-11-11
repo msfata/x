@@ -89,6 +89,26 @@ https://38q.gcdn.co/PM26/index.m3u8
 https://38q.gcdn.co/PM30/index.m3u8
 #EXTINF:-1 ,AMC IFC Film Picks (1080p)  (English)
 https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,MX
+https://last.gcdn.co/AR85/index.m3u8
+#EXTINF:-1 ,HBO ZONE
+https://38q.gcdn.co/PM9/index.m3u8
+#EXTINF:-1 ,HBO CANADA
+https://38q.gcdn.co/PM1/index.m3u8
+#EXTINF:-1 ,HBO 2
+https://38q.gcdn.co/PM3/index.m3u8
+#EXTINF:-1 ,HBO FAMILY
+https://38q.gcdn.co/PM6/index.m3u8
+#EXTINF:-1 ,HBO PLUS
+https://38q.gcdn.co/PM4/index.m3u8
+#EXTINF:-1 ,HBO WEST
+https://38q.gcdn.co/PM5/index.m3u8
+#EXTINF:-1 ,HBO SIGNATURE 
+https://38q.gcdn.co/PM8/index.m3u8
+#EXTINF:-1 ,HBO COMEDY
+https://38q.gcdn.co/PM7/index.m3u8
+#EXTINF:-1 ,HBO HITZ
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 ,MTV
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 ,EURO SPORT
