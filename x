@@ -187,5 +187,7 @@ https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 #EXTINF:-1 ,FREE SPORT
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+#EXTINF:-1 ,RAGUE
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 #EXTINF:-1 ,Star World
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
