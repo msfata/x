@@ -21,12 +21,20 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chun
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,KAYHAN MUSIC
 http://208.93.117.113/live/Stream1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,Sony Max HD
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,GEM TV
+https://stream-live.gemonline.tv/live/gem/index.m3u8
+#EXTINF:-1 ,GEM CLASIC 
+https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
+#EXTINF:-1 ,GEM SERIES 
+https://stream-live.gemonline.tv/live/gemseries/index.m3u8
+#EXTINF:-1 ,GEM DRAMA
+https://stream-live.gemonline.tv/live/gemdrama/index.m3u8
+#EXTINF:-1 ,GEM LIFE
+https://stream-live.gemonline.tv/live/gemlife/index.m3u8
+#EXTINF:-1 ,9X
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 ,BOLLYWOOD HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-#EXTINF:-1 ,ZEE CINEMA
-https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
 #EXTINF:-1 ,ZEE CINEMA
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE ACTION
@@ -43,8 +51,6 @@ https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
 http://14.199.164.20:4001/play/a0wj/index.m3u8
 #EXTINF:-1 ,B4U-PLUS
 http://pyramidsiptv.com:8080/mohamed/mohamed123/855?checkedby:iptvcat.com
-#EXTINF:-1 ,UTV
-https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 #EXTINF:-1 ,WOW
 http://14.199.164.20:4001/play/a0n3/index.m3u8
 #EXTINF:-1 ,COMEDY
@@ -53,8 +59,6 @@ https://streaming37.worldbbtv.com/hls/tvacomedy.m3u8
 http://14.199.164.20:4001/play/a0su/index.m3u8
 #EXTINF:-1 group-title="Movies",Manoranjan Grand
 http://14.199.164.20:4001/play/a0m2/index.m3u8
-#EXTINF:-1 ,COLOR CINEPLEX
-https://feed.play.mv/live/10005200/ABTuyrBr22/1.m3u8
 #EXTINF:-1 ,MANOTO
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
 #EXTINF:-1 ,FIVE STAR MAX
@@ -147,16 +151,10 @@ https://ent.gcdn.co/E60/index.m3u8
 https://ent.gcdn.co/E62/index.m3u8
 #EXTINF:-1 ,EPEX DRIVE
 https://ent.gcdn.co/E61/index.m3u8
-#EXTINF:-1 ,RETRO
-https://38q.gcdn.co/PM33/index.m3u8
-#EXTINF:-1 ,INDI PLIX
-https://38q.gcdn.co/PM31/index.m3u8
 #EXTINF:-1 ,STARZ CINEMA
 https://38q.gcdn.co/PM15/index.m3u8
 #EXTINF:-1 ,STARZ SUSPENSE
 https://38q.gcdn.co/PM22/index.m3u8
-#EXTINF:-1 ,STARZ ENCORE FAMILY
-https://38q.gcdn.co/PM21/index.m3u8
 #EXTINF:-1 ,STARZ ENCORE CLASSIC
 https://38q.gcdn.co/PM23/index.m3u8
 #EXTINF:-1 ,STARZ EDGE
@@ -183,11 +181,7 @@ https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 ,WRESTLING SPORT
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 ,EURO SPORT
-https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 #EXTINF:-1 ,FREE SPORT
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 #EXTINF:-1 ,RAGUE
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
-#EXTINF:-1 ,Star World
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
